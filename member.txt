@@ -1,0 +1,5 @@
+ï»¿ID,PASSWORD,NAME,PHONE_NUM,0
+admin,admin,admin,admin,0
+leeje0118,0000,jieun,01092358779,1
+jieun,111,ÀÌÁöÀº,01000009999,1
+dlatndusdlek,dlatndus1,ÀÓ¼ö¿¬,01063917097,1
